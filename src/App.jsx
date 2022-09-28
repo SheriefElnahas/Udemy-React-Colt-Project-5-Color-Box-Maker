@@ -1,8 +1,9 @@
+import BoxList from "./components/Boxlist"
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello, World</h1>
+      <BoxList />
     </div>
   )
 }
