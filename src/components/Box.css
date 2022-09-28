@@ -1,5 +1,4 @@
 .Box {
-    width:100px;
-    height:100px;
-    background:teal;
+    margin-top:1rem;
+    margin:3rem auto;
 }
